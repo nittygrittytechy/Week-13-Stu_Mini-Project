@@ -122,28 +122,28 @@ API routes were tested using the Postman VS Code extension directly inside VSCod
 ![Postman Extension](./Proof-of-Challenge/installed Postman to VSCodium.PNG)
 
 ### Connected to Render PostgreSQL Database
-![Render Database Connection](./Proof%20of%20Challenge/installed%20Postman%20to%20VSCodium.PNG)
+![Render Database Connection](/Main/Proof%20of%20Challenge/installed%20Postman%20to%20VSCodium.PNG)
 
 ### POST Create a New Traveler
-![POST Traveler](./Proof%20of%20Challenge/added%20new%20traveler%20to%20database.PNG)
+![POST Traveler](/Main/Proof%20of%20Challenge/added%20new%20traveler%20to%20database.PNG)
 
 ### POST Create a New Traveler to Delete
-![POST Traveler](./Proof%20of%20Challenge/added%20new%20traveler%20so%20I%20can%20delete%20it.PNG)
+![POST Traveler](/Main/Proof%20of%20Challenge/added%20new%20traveler%20so%20I%20can%20delete%20it.PNG)
 
 ## POST Show New Traveler in Database
-![Show New Traveler to Delete](./Proof%20of%20Challenge/added%20new%20traveler%20to%20database.PNG)
+![Show New Traveler to Delete](/Main/Proof%20of%20Challenge/added%20new%20traveler%20to%20database.PNG)
 
 ### POST Create a New Trip
-![POST Trip](./Proof%20of%20Challenge/added%20a%20new%20trip%20to%20the%20database%20using%20Postman%203-12-2026.PNG)
+![POST Trip](/Main/Proof%20of%20Challenge/added%20a%20new%20trip%20to%20the%20database%20using%20Postman%203-12-2026.PNG)
 
 ### POST Create a New Location
-![POST Location](./Proof%20of%20Challenge/added%20new%20location%20Hawaii%203-12-2026.PNG)
+![POST Location](/Main/Proof%20of%20Challenge/added%20new%20location%20Hawaii%203-12-2026.PNG)
 
 ### DELETE a Traveler
-![DELETE Traveler](./Proof%20of%20Challenge/deleted%20the%20new%20traveler.PNG)
+![DELETE Traveler](/Main/Proof%20of%20Challenge/deleted%20the%20new%20traveler.PNG)
 
 ### pgAdmin Showing Database Data
-![pgAdmin Data](./Proof%20of%20Challenge/Connected%20to%20Render%20using%20pgAdmin%203-12-2026.PNG)
+![pgAdmin Data](/Main/Proof%20of%20Challenge/Connected%20to%20Render%20using%20pgAdmin%203-12-2026.PNG)
 
 ## Deployment
 

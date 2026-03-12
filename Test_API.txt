@@ -1,0 +1,29 @@
+### Get all travelers
+GET http://localhost:3001/api/travelers
+
+### Get one traveler
+GET http://localhost:3001/api/travelers/1
+
+### Get all locations
+GET http://localhost:3001/api/locations
+
+### Get one location
+GET http://localhost:3001/api/locations/1
+
+### Create a traveler
+POST http://localhost:3001/api/travelers
+Content-Type: application/json
+
+{"name": "John", "email": "john@test.com"}
+
+### Create a trip
+POST http://localhost:3001/api/trips
+Content-Type: application/json
+
+{"trip_budget": 2000.50, "traveler_amount": 6, "traveler_id": 1, "location_id": 2}
+
+### Delete a traveler
+DELETE http://localhost:3001/api/travelers/1
+
+### Delete a trip
+DELETE http://localhost:3001/api/trips/1
